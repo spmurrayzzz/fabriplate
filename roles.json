@@ -1,0 +1,16 @@
+[
+    {
+        "role": "spmurraydev",
+        "hosts": [
+            "spmurraydev.com"
+        ],
+        "default_tasks": [
+            "whoami"
+        ],
+        "other": "trivial",
+        "data": "that",
+        "you": "deem",
+        "necessary": "to",
+        "store": "dawg"
+    }
+]
